@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding: 0;    
+}
+.head_sec {
+
+}
+.head_sec img{
+width:80%;
+height: 300px;
+display: block;
+margin: 20px auto;
+}
+.main_section_wrap{
+    margin-bottom: 100px;
+}
+
+.gallery_section{
+    width:100%;
+
+}
+.art_wrap{
+    width:30%;
+    float: left;
+    margin-left: 3%;
+    ;
+}
+.art_wrap :last-child{
+    margin-left: none;
+}
+.art_wrap img{
+    width:100%;
+    height: 250px;
+}
+.art_wrap{}
